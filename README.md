@@ -1,5 +1,5 @@
 # comic-mono-NF-complete
-A legible monospace font... the very typeface you’ve been trained to recognize since childhood. This font is a fork of [dtinth](https://github.com/dtinth)'s [Comic Mono](https://github.com/dtinth/comic-mono-font) (version 1).
+A legible monospace font... the very typeface you’ve been trained to recognize since childhood. This font is a fork of [dtinth](https://github.com/dtinth)'s [Comic Mono](https://github.com/dtinth/comic-mono-font).
 
 <p class="website-hidden">
   <a href="https://dtinth.github.io/comic-mono-font/">
